@@ -1,11 +1,9 @@
 # Zxcvbn-Dart
 
-[![Build Status](https://travis-ci.org/careapp-inc/zxcvbn-dart.svg?branch=master)](https://travis-ci.org/careapp-inc/zxcvbn-dart)
-
 [`zxcvbn`](https://github.com/dropbox/zxcvbn) is a password strength estimator inspired by password crackers, developed by DropBox. This project is a Dart port of the original CoffeeScript, for use in Flutter and other Dart projects.
 
 ## Usage
-
+<!-- TODO: show new usage -->
 Zxcvbn accepts a password input and returns a score from 0-4, giving an indication of the password strength.
 
 ```dart

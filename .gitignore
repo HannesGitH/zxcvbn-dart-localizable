@@ -15,4 +15,5 @@ tmux-*.log
 # VS Code files
 launch.json
 
+.dart_tool
 
